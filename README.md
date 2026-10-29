@@ -42,8 +42,8 @@ Bonus
 ### Clone the repository
 
 ```shell
-git clone https://github.com/meetcodeman/project-management.git
-cd project-management
+git clone https://github.com/devfield0/project-mgmt-dashboard.git
+cd project-mgmt-dashboard
 ```
 ### Dependencies
 
